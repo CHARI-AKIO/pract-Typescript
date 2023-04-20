@@ -31,6 +31,9 @@ npm install
 npm run dev
 ```
 
+`clone`した後にリポジトリの**ルートディレクトリ**を開いて↑のコマンドを実行してください。
+`npm run dev`で`Hello World`が出ればOKです
+
 # Mission
 
 ## 最初に
