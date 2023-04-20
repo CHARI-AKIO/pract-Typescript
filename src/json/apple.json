@@ -1,0 +1,37 @@
+[
+  {
+  "name": "つがる",
+  "price": 300,
+  "mature" : "早"
+  },
+  {
+    "name": "きおう",
+    "price": 350,
+    "mature" : "早"
+  },
+  {
+    "name": "早生ふじ",
+    "price": 400,
+    "mature" : "中"
+  },
+  {
+    "name": "トキ",
+    "price": 250,
+    "mature" : "中"
+  },
+  {
+    "name" : "紅玉",
+    "price" : 300,
+    "mature": "中"
+  },
+  {
+    "name" : "ふじ",
+    "price": 500,
+    "matue": "晩"
+  },
+  {
+    "name": "金星",
+    "price": 600,
+    "mature": "晩"
+  }
+]
