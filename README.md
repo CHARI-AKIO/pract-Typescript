@@ -23,7 +23,7 @@ vue3 + typescript で TODO リストを作る
 
 これらの機能を実装するために最低限の Typescript の知識を身につけます。
 
-## Get Start
+## インストール + build
 
 ```bash
 npm install
